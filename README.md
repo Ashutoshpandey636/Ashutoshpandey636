@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ashutosh</h1>
 <h3 align="center">A passionate web developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0Ica54Ud2hvjeX6mrmfRyl&ust=1726228464860000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMDJ_p6vvYgDFQAAAAAdAAAAABAZ">
+<img align="right" alt="coding" width="400" src="https://images.app.goo.gl/Tub62FPHyVAKj2LX9">
 
 - 🌱 I’m currently learning **Frameworks and Databases;**
 
