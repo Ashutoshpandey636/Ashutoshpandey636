@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ashutosh</h1>
 <h3 align="center">A passionate web developer from India</h3>
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/CXnj3jCwvETngjy11B/giphy.gif?cid=ecf05e478d8befdwhorrwrfhd04cckkzjgz1v82gbmm9xvqe&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 - 🌱 I’m currently learning **Frameworks and Databases;**
 
